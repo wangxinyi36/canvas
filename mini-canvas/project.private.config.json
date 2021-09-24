@@ -1,0 +1,23 @@
+{
+    "condition": {
+        "plugin": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "gamePlugin": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": [
+                {
+                    "name": "canvas",
+                    "pathName": "pages/canvas/canvas",
+                    "query": "",
+                    "scene": null
+                }
+            ]
+        }
+    }
+}

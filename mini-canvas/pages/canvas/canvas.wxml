@@ -1,0 +1,7 @@
+<!--pages/canvas/canvas.wxml-->
+<view class="canvas">
+    <view class="main">
+        <canvas type="2d" class="canvas-box" id="myCanvas"></canvas>
+    </view>
+    <button bindtap="save">保存图片</button>
+</view>
